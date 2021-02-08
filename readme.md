@@ -1,0 +1,1 @@
+Webová aplikácia založeníá na module "streamlit"
